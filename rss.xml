@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[apollak]]></title>
+        <description><![CDATA[apollak]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 22:18:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI Approaches... Everywhere]]></title>
+            <description><![CDATA[<article><h1>AI Approaches... Everywhere</h1><p>A brief reflection on the state of thinking about artificial thought.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/292a2425-4911-4c00-a191-e24777fea502.jpg"></article>]]></description>
+            <link>undefinedai-approaches-everywhere/index.html</link>
+            <guid isPermaLink="false">24cd4729-7e92-4786-940d-ebe8dd8ea060</guid>
+            <pubDate>Sun, 10 Jan 2016 22:17:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
